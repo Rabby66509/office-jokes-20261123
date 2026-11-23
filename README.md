@@ -1,8 +1,8 @@
 # Office Jokes — Make the AI Judge Laugh
 
 [![Make the AI Judge Laugh: Office Jokes](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![Rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rabby66509/office-jokes-20261123/rank.svg)](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
-[![Reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/rabby66509/office-jokes-20261123/reward.svg)](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![Rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/Rabby66509/office-jokes-20261123/rank.svg)](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![Reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/Rabby66509/office-jokes-20261123/reward.svg)](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 
 Entry for [Make the AI Judge Laugh: Office Jokes](https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a) on make.fun.
 
